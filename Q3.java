@@ -3,6 +3,10 @@ public class Q3 {
         System.out.println("Hii vivek");
         System.out.println("sdkjsdjk");
     }
+    {
+        System.out.println("How to dlt");
+        System.out.println("how to insert");
+    }
 
 }
 
