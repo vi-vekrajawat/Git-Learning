@@ -6,6 +6,9 @@ public class Second {
         System.out.println("Update balance");
         System.out.println("functio");
         System.out.println("you");
+        System.out.println("sdfsdf");
+        System.out.println("bug first");
+        System.out.println("firs command first commit");
     }
     
 }
