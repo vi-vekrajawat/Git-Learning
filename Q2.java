@@ -5,6 +5,7 @@ public class Q2 {
     {
         System.out.println("dsfk");
         System.out.println("dkfj");
+        System.out.println("sdk");
     }
     
 }
