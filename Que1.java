@@ -9,9 +9,9 @@ public class Que1 {
         System.out.println("Integer1 "+y);
         System.out.println("Clear");
 
-        System.out.println("Master ");
-        System.out.println("Branch");
-        System.out.println("Clear");
+        System.out.println("First ");
+        System.out.println("Second");
+        System.out.println("Third");
     }
     
 }
