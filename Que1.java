@@ -8,6 +8,10 @@ public class Que1 {
         System.out.println("Integer "+x);
         System.out.println("Integer1 "+y);
         System.out.println("Clear");
+
+        System.out.println("First ");
+        System.out.println("Second");
+        System.out.println("Third");
     }
     
 }
