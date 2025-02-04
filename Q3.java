@@ -5,6 +5,10 @@ public class Q3 {
 
         System.out.println("good evening");
         System.out.println("jai bajrag bali");
+
+        int x =5;
+        int y =7;
+        System.out.println(x*y);
     }
    
 
