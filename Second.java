@@ -10,6 +10,7 @@ public class Second {
         System.out.println("bug first");
         System.out.println("firs command first commit");
         System.out.println("second github");
+        System.out.println("Itt is second file");
     }
     
 }
