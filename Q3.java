@@ -13,8 +13,8 @@ public class Q3 {
         int x =5;
         int y =7;
         System.out.println(x*y);
-        int x =5;
-        int y =7;
+        int x1 =5;
+        int y1 =7;
         System.out.println(x*y);
 
         int a = 5;
