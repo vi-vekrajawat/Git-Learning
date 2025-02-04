@@ -9,6 +9,7 @@ public class Second {
         System.out.println("sdfsdf");
         System.out.println("bug first");
         System.out.println("firs command first commit");
+        System.out.println("second github");
     }
     
 }
